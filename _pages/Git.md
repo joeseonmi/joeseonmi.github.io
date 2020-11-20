@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: Git
 ---
 
-Git 쓸 때 꿀팁
+까먹을때마다 찾아보는 Git Tips
