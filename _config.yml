@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/profile2.png"
   bio              : "안녕하세요. 지나가는 iOS 개발자 입니다."
   location         : "Seoul, South Korea"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
