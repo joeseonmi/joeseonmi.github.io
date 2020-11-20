@@ -1,7 +1,6 @@
 ---
 title:  "Terminal 커스텀하기"
 excerpt: "oh my zsh 와 함께 터미널 보기좋게 만들기"
-layout: post
 author: maggi
 date: '2020-11-20T13:45:00-05:00'
 thumbnail: /assets/img/2020-11-20-How-to-set-terminal/thum.png
